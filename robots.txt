@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujuqiuma.github.io/ARK/sitemap_index.txt
+Sitemap: https://ujuqiuma.github.io/UBi/sitemap_index.txt
+Sitemap: https://ujuqiuma.github.io/ZPI/sitemap_index.txt
+Sitemap: https://ujuqiuma.github.io/psC/sitemap_index.txt
